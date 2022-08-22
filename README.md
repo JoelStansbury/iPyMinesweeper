@@ -1,4 +1,4 @@
 # iPyMinesweeper
 Why not?
 
-![image](https://user-images.githubusercontent.com/48299585/185832044-ea3f3d1a-47aa-4dc8-bc75-f5529acb8415.png)
+![image](https://user-images.githubusercontent.com/48299585/185832498-d31134ab-e344-470b-b2f1-14c5c8848882.png)
